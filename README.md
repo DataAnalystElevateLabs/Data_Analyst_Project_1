@@ -71,7 +71,10 @@ Built a data-driven model to predict customer LTV with strong accuracy.
 Enabled strategic segmentation for marketing and resource allocation, enhancing customer relationship management.
 
 
+
+
 Second Project of Data Analyst Intern @ Elevate Labs
+
 Project 2: Superstore Sales Data PoerBI and SQL
 
 Step 1: Data Cleaning and Transformation
