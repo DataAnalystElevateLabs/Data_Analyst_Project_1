@@ -72,6 +72,7 @@ Enabled strategic segmentation for marketing and resource allocation, enhancing 
 
 
 Second Project of Data Analyst Intern @ Elevate Labs
+Project 2: Superstore Sales Data PoerBI and SQL
 
 Step 1: Data Cleaning and Transformation
 This foundational phase ensures your dataset is accurate, consistent, and ready for analysis.
